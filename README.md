@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center">
-<img src="demo_uninlx.png" width="512"/>
+<img src="demo_uninlx.png" width="784"/>
   </p>
 
 ### Requirements
