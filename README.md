@@ -26,5 +26,7 @@
 `clip_model.py`: script for vision backbone we use (CLIP visual encoder)<br>
 
 ### Models
+- [Pretrained Model (w/o finetuning)](https://drive.google.com/drive/folders/1mSXY-W6OgDU5TOzQ6ShzikvntJi_aAmo?usp=sharing)
+- [Pretrained Model (w/ finetuning)](https://drive.google.com/drive/folders/1yCiCT4BUoAP8faeFeHV1HgDJ8Kqu7feL?usp=sharing)
 
 ### Results
