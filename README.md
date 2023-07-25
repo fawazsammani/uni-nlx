@@ -30,3 +30,5 @@
 - [Pretrained Model (w/ finetuning)](https://drive.google.com/drive/folders/1yCiCT4BUoAP8faeFeHV1HgDJ8Kqu7feL?usp=sharing)
 
 ### Results
+- [Results (w/o finetuning)](https://drive.google.com/drive/folders/1mL81AJRX2fCrJn0mct5DKV2csWrioZzP?usp=sharing)
+- [Results (w/ finetuning)](https://drive.google.com/drive/folders/1b9l2R0p6rQrDOEKso9jFflLOiVnIXPSM?usp=sharing)
