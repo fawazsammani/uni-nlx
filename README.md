@@ -13,12 +13,12 @@
 - [cococaption](https://github.com/ruotianluo/coco-caption/tree/ea20010419a955fed9882f9dcc53f2dc1ac65092) 
 
 ### Images Download
-- [COCO](https://cocodataset.org/#download) `train2014` and `val2014` images<br>
+- [COCO](https://cocodataset.org/#download) <br>
 - [MPI](http://human-pose.mpi-inf.mpg.de/#download). Rename to `mpi` <br>
 - [Flickr30K](http://shannon.cs.illinois.edu/DenotationGraph/). Rename to `flickr30k` <br>
-- [VCR](https://visualcommonsense.com/download/). Rename to `vcr` <br>
-- [ImageNet (ILSVRC2012)](https://www.image-net.org/download.php)
-- [Visual Genome v1.2](https://homes.cs.washington.edu/~ranjay/visualgenome/api.html)
+- [VCR](https://visualcommonsense.com/download/) <br>
+- [ImageNet (ILSVRC2012)](https://www.image-net.org/download.php). Rename to `ImageNet` <br>
+- [Visual Genome v1.2](https://homes.cs.washington.edu/~ranjay/visualgenome/api.html). Rename to `VG_100K` <br>
 
 ### Code
 `train_nlx.py`: script for training only<br>
