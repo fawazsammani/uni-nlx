@@ -6,6 +6,8 @@
 <img src="demo_uninlx.png" width="784"/>
   </p>
 
+Paper and Dataset coming soon!
+
 ### Requirements
 - [PyTorch](https://pytorch.org/) 1.8 or higher
 - [CLIP](https://github.com/openai/CLIP) (install with `pip install git+https://github.com/openai/CLIP.git`)
