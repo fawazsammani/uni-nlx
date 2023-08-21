@@ -1,4 +1,4 @@
-# Uni-NLX: Unifying Textual Explanations for Vision and Vision-Language Tasks
+## [Uni-NLX: Unifying Textual Explanations for Vision and Vision-Language Tasks](https://arxiv.org/pdf/2308.09033.pdf)
 
 <br>
 <br>
@@ -6,7 +6,7 @@
 <img src="demo_uninlx.png" width="784"/>
   </p>
 
-Paper and Dataset coming soon!
+[[arXiv]](https://arxiv.org/pdf/2308.09033.pdf)
 
 ### Requirements
 - [PyTorch](https://pytorch.org/) 1.8 or higher
