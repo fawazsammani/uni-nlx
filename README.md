@@ -7,7 +7,7 @@
   </p>
 
 [[arXiv]](https://arxiv.org/pdf/2308.09033.pdf)<br>
-[[video presentation at ICCV]](https://www.youtube.com/watch?v=zgI_0uThaxk&t=696s&ab_channel=Vision-and-Language-Algorithmic-Reasoning)
+[[video presentation at ICCV]](https://www.youtube.com/watch?v=zgI_0uThaxk)
 
 ### Requirements
 - [PyTorch](https://pytorch.org/) 1.8 or higher
