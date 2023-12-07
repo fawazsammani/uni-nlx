@@ -23,6 +23,9 @@
 - [ImageNet (ILSVRC2012)](https://www.image-net.org/download.php). Rename to `ImageNet` <br>
 - [Visual Genome v1.2](https://homes.cs.washington.edu/~ranjay/visualgenome/api.html). Rename to `VG_100K` <br>
 
+### Data
+The trianing and test data (combined for all datasets) can be found [here](https://drive.google.com/drive/folders/1vQAHOTStNBdPfiUbkgxsy2BeRrBeFUC7?usp=sharing)
+
 ### Code
 `train_nlx.py`: script for training only<br>
 `test_datasets.py`: script for validation/testing for all epochs on all 7 NLE tasks<br>
