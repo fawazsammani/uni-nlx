@@ -26,6 +26,9 @@
 ### Data
 The trianing and test data (combined for all datasets) can be found [here](https://drive.google.com/drive/folders/1vQAHOTStNBdPfiUbkgxsy2BeRrBeFUC7?usp=sharing)
 
+### Annotations
+The annotations in the format that cococaption expects can be found [here](https://drive.google.com/drive/folders/17pka6Twl_mOmtCi79tKv7GPRGMeRissb?usp=sharing). Please place them inside the `cococaption` folder.
+
 ### Code
 `train_nlx.py`: script for training only<br>
 `test_datasets.py`: script for validation/testing for all epochs on all 7 NLE tasks<br>
